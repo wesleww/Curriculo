@@ -1,0 +1,28 @@
+body{
+  margin: 0;
+  padding: 0;
+  border: 0;
+ 
+  background-image: linear-gradient(rgb(129, 25, 21), rgb(199, 199, 16), rgb(129, 25,21));
+}
+main{
+text-align: center;
+display: inline;
+
+}
+hr{
+border: 2px solid rgba(22, 22, 16, 0.726);
+width: 10px;
+}
+
+img{
+   border-radius: 100%;
+   border: 2px solid white;
+}
+
+.Icone a{
+ font-size: 100px;
+  color: azure;
+}
+
+
